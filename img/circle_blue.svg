@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1d;
+        fill-opacity: 0;
+        stroke: #004183;
+        stroke-linejoin: round;
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <circle id="楕円形_6" data-name="楕円形 6" class="cls-1" cx="18.5" cy="18.5" r="15"/>
+</svg>
